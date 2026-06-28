@@ -1,2 +1,2 @@
 # Windows-DD
-theme for Flow laucher
+Flow Launcher theme inspired by the Windows theme :) Enjoy!
